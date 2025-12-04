@@ -57,31 +57,31 @@
      </widget>
     </item>
     <item row="0" column="1">
-     <widget class="QTextEdit" name="userNumber">
+     <widget class="QLineEdit" name="userNumber">
       <property name="maximumSize">
        <size>
         <width>300</width>
-        <height>40</height>
+        <height>16777215</height>
        </size>
       </property>
      </widget>
     </item>
     <item row="1" column="1">
-     <widget class="QTextEdit" name="userName">
+     <widget class="QLineEdit" name="userName">
       <property name="maximumSize">
        <size>
         <width>300</width>
-        <height>40</height>
+        <height>16777215</height>
        </size>
       </property>
      </widget>
     </item>
     <item row="2" column="1">
-     <widget class="QTextEdit" name="userSurname">
+     <widget class="QLineEdit" name="userSurname">
       <property name="maximumSize">
        <size>
         <width>300</width>
-        <height>40</height>
+        <height>16777215</height>
        </size>
       </property>
      </widget>
@@ -91,9 +91,9 @@
   <widget class="QWidget" name="gridLayoutWidget_2">
    <property name="geometry">
     <rect>
-     <x>390</x>
+     <x>410</x>
      <y>0</y>
-     <width>431</width>
+     <width>401</width>
      <height>381</height>
     </rect>
    </property>
@@ -103,13 +103,13 @@
       <property name="minimumSize">
        <size>
         <width>0</width>
-        <height>350</height>
+        <height>200</height>
        </size>
       </property>
       <property name="maximumSize">
        <size>
         <width>16777215</width>
-        <height>350</height>
+        <height>200</height>
        </size>
       </property>
       <property name="text">
@@ -122,13 +122,13 @@
       <property name="minimumSize">
        <size>
         <width>0</width>
-        <height>350</height>
+        <height>200</height>
        </size>
       </property>
       <property name="maximumSize">
        <size>
         <width>16777215</width>
-        <height>350</height>
+        <height>200</height>
        </size>
       </property>
       <property name="text">
@@ -158,7 +158,7 @@
    <property name="geometry">
     <rect>
      <x>0</x>
-     <y>280</y>
+     <y>290</y>
      <width>391</width>
      <height>151</height>
     </rect>
